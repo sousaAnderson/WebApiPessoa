@@ -1,0 +1,11 @@
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\bin\Debug\netcoreapp2.0\WebApiPessoas.deps.json
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\bin\Debug\netcoreapp2.0\WebApiPessoas.runtimeconfig.json
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\bin\Debug\netcoreapp2.0\WebApiPessoas.runtimeconfig.dev.json
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\bin\Debug\netcoreapp2.0\WebApiPessoas.dll
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\bin\Debug\netcoreapp2.0\WebApiPessoas.pdb
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.csprojResolveAssemblyReference.cache
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.csproj.CoreCompileInputs.cache
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.AssemblyInfoInputs.cache
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.AssemblyInfo.cs
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.dll
+C:\Users\japso\source\repos\WebApiPessoas\WebApiPessoas\obj\Debug\netcoreapp2.0\WebApiPessoas.pdb
